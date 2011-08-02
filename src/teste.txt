@@ -1,4 +1,0 @@
-Alguns artigo atrás, demonstrei como o conhecimento e a aplicação do design pattern Chain of Responsibility pode vir a ser interessante
-no sentido em que permite manter a flexibilidade do sistema.  
-Naquela ocasião, pude relaciona-lo ao Servlet Filter e ao tratamento nativo das 
-exceções em Java
